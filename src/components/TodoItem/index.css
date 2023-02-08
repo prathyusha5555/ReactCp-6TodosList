@@ -1,0 +1,22 @@
+.todo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #000000;
+}
+.button {
+  border-color: #ff0b37;
+  color: #ff0b37;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-size: 14px;
+  height: 35px;
+  width: 90px;
+  border-radius: 5px;
+}
